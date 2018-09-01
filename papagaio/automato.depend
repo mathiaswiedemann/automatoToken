@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1535159284 source:c:\users\administrador\desktop\automatos\automato\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ext.h"
+
+1535159222 c:\users\administrador\desktop\automatos\automato\ext.h
+
+1535688787 source:c:\users\mathi\desktop\automatos\automato\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ext.h"
+
+1535689267 c:\users\mathi\desktop\automatos\automato\ext.h
+
+1535691143 source:c:\users\mathi\desktop\automatos\papagaio\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ext.h"
+
+1535700279 c:\users\mathi\desktop\automatos\papagaio\ext.h
+
